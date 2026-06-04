@@ -1,1 +1,1 @@
-Gunzib dictionary database, parsed from (Khalilov 2026)
+Hunzib dictionary database, parsed from (Khalilov 2026)
